@@ -1,0 +1,2 @@
+# MajorDoMo-myModule
+Проба пера
